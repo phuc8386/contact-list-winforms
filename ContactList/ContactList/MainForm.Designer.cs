@@ -49,6 +49,7 @@
             this.btnThemLienHe.TabIndex = 1;
             this.btnThemLienHe.Text = "Thêm Liên Hệ";
             this.btnThemLienHe.UseVisualStyleBackColor = true;
+            this.btnThemLienHe.Click += new System.EventHandler(this.btnThemLienHe_Click);
             // 
             // MainForm
             // 
